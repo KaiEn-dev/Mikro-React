@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afceaee0.css",
+    "main.js": "/static/js/main.03a1b433.js",
+    "static/media/malaysia.jpg": "/static/media/malaysia.f6fee3cdb88f311bab6e.jpg",
+    "static/media/city.jpg": "/static/media/city.fc164018698f81ca28fe.jpg",
+    "static/media/marker.png": "/static/media/marker.64cdcb0ef97818161310.png",
+    "static/media/loadinglogo.PNG": "/static/media/loadinglogo.48608d734fbdea78ab6b.PNG",
+    "index.html": "/index.html",
+    "main.afceaee0.css.map": "/static/css/main.afceaee0.css.map",
+    "main.03a1b433.js.map": "/static/js/main.03a1b433.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afceaee0.css",
+    "static/js/main.03a1b433.js"
+  ]
+}
