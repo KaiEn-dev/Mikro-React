@@ -1,0 +1,7 @@
+#deliveryInfo:hover {
+  cursor: pointer;
+}
+
+#deliveryInfo {
+  text-decoration: underline;
+}

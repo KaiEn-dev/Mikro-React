@@ -1,0 +1,14 @@
+#add2cart:disabled {
+  opacity: 0.3;
+}
+
+#add2cart {
+  background-color: white;
+  color: black;
+}
+
+#quantity:disabled {
+  opacity: 1;
+  color: white;
+  font-size: 1.3em;
+}

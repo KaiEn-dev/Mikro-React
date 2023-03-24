@@ -1,0 +1,11 @@
+#cart:hover {
+  cursor: pointer;
+}
+
+#closecart:hover {
+  cursor: pointer;
+}
+
+#checkout:disabled {
+  opacity: 0.3;
+}
