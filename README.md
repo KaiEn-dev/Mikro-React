@@ -25,4 +25,4 @@ This react app serves as the online shop for the system. React page routing is u
 ### Demo
 > heroku website no longer available ([heroku free dynos no longer available starting Nov 28, 2022](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq))
 ### Screenshots
-
+[screenshots pdf](Screenshots.pdf)
